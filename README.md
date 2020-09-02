@@ -4,7 +4,7 @@
 
 I’m a DevOps Engineer, bilingual (English - Spanish), and a [Systems Analysis](https://www.istea.edu.ar/tecnicatura-superior-en-analisis-de-sistemas) student.
 
-I'm [AWS Certified](https://www.youracclaim.com/badges/63289c22-b1ee-4711-8bb8-39fc5dd77df3) and [freeCodeCamp Certified](https://www.freecodecamp.org/certification/mdorante/responsive-web-design).
+[AWS Certified](https://www.youracclaim.com/badges/63289c22-b1ee-4711-8bb8-39fc5dd77df3) and [freeCodeCamp Certified](https://www.freecodecamp.org/certification/mdorante/responsive-web-design) and many more to come!
 
 At the moment I'm having fun with DevOps but I'm really interested in making a move towards the Backend, Full Stack or Mobile Dev space.
 
@@ -27,18 +27,3 @@ At the moment I'm having fun with DevOps but I'm really interested in making a m
 ## Contact
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdorante10@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-dorante-750181153/) [![Twitter](https://img.shields.io/badge/-Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mdorante10)
-
-<!--
-**mdorante/mdorante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
