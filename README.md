@@ -22,7 +22,7 @@ At the moment I'm having fun with DevOps but I'm really interested in making a m
 
 - Other interests:
 
-  ![](http://img.shields.io/badge/-Go-3e4043?style=flat-square&logo=go) ![](http://img.shields.io/badge/-Kotlin-043c90?style=flat-square&logo=kotlin) ![](http://img.shields.io/badge/-Android-black?style=flat-square&logo=android) ![](http://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql) ![](http://img.shields.io/badge/-MongoDB-147115?style=flat-square&logo=mongodb) ![](http://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes) ![](http://img.shields.io/badge/-Kafka-black?style=flat-square&logo=apache-kafka) ![](http://img.shields.io/badge/-Azure-141971?style=flat-square&logo=microsoft-azure) ![](http://img.shields.io/badge/-Windows%20Server-blue?style=flat-square&logo=windows)
+  ![](http://img.shields.io/badge/-Go-3e4043?style=flat-square&logo=go) ![](http://img.shields.io/badge/-Kotlin-043c90?style=flat-square&logo=kotlin) ![](http://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter) ![](http://img.shields.io/badge/-Android-black?style=flat-square&logo=android) ![](http://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql) ![](http://img.shields.io/badge/-MongoDB-147115?style=flat-square&logo=mongodb) ![](http://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes) ![](http://img.shields.io/badge/-Kafka-black?style=flat-square&logo=apache-kafka) ![](http://img.shields.io/badge/-Azure-141971?style=flat-square&logo=microsoft-azure) ![](http://img.shields.io/badge/-Windows%20Server-blue?style=flat-square&logo=windows)
 
 ## Contact
 
