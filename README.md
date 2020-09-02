@@ -1,4 +1,4 @@
-![](../mdorante/gifs/GitHub_Profile.gif)
+![](https://github.com/mdorante/mdorante/blob/master/gifs/GitHub_Profile.gif)
 
 ## About me
 
