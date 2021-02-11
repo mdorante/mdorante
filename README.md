@@ -2,15 +2,16 @@
 
 ## About me
 
-I’m a DevOps Engineer, bilingual (English - Spanish), and a [Systems Analysis](https://www.istea.edu.ar/tecnicatura-superior-en-analisis-de-sistemas) student.
+DevOps / SRE , bilingual (English - Spanish), and a [Systems Analysis](https://www.istea.edu.ar/tecnicatura-superior-en-analisis-de-sistemas) student.
 
 [AWS Certified](https://www.youracclaim.com/badges/63289c22-b1ee-4711-8bb8-39fc5dd77df3) and [freeCodeCamp Certified](https://www.freecodecamp.org/certification/mdorante/javascript-algorithms-and-data-structures) and many more to come!
 
-At the moment I'm having fun with DevOps but I'm really interested in making a move towards the Backend or Full Stack space.
+I'm highly interested in further developing my skills in backend development (Python, Go, JS/Node.js, C#/.NET, Java).
+Most of my infrastructure experience has been with AWS since the beginning of my career, so that's the platform I'm most experienced with. I'm also a container and Kubernetes enthusiast, I like digging deep into these technologies as well.
 
 - Some technologies I use regularly:
 
-  ![](http://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux) ![](https://img.shields.io/badge/-Python-cda71a?style=flat-square&logo=python) ![](https://img.shields.io/badge/-Ansible-black?style=flat-square&logo=ansible) ![](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) ![](http://img.shields.io/badge/-Terraform-4b17cc?style=flat-square&logo=terraform) ![](https://img.shields.io/badge/-AWS-cc7d17?style=flat-square&logo=amazon-aws) ![](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins&logoColor=white) ![](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![](http://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+  ![](http://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux) ![](https://img.shields.io/badge/-Python-cda71a?style=flat-square&logo=python) ![](https://img.shields.io/badge/-Ansible-black?style=flat-square&logo=ansible) ![](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) ![](http://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes) ![](http://img.shields.io/badge/-Terraform-4b17cc?style=flat-square&logo=terraform) ![](https://img.shields.io/badge/-AWS-cc7d17?style=flat-square&logo=amazon-aws) ![](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins&logoColor=white) ![](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![](http://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
 - Technologies I have used on other projects:
 
@@ -18,11 +19,11 @@ At the moment I'm having fun with DevOps but I'm really interested in making a m
 
 - I'm currently learning:
 
-  ![](http://img.shields.io/badge/-C%20Sharp-4b17cc?style=flat-square&logo=c-sharp) ![](http://img.shields.io/badge/-.NET-4b17cc?style=flat-square&logo=.net) ![](http://img.shields.io/badge/-MS%20SQL-purple?style=flat-square&logo=microsoft-sql-server)
+  ![](http://img.shields.io/badge/-Go-3e4043?style=flat-square&logo=go) ![](http://img.shields.io/badge/-C%20Sharp-4b17cc?style=flat-square&logo=c-sharp) ![](http://img.shields.io/badge/-.NET-4b17cc?style=flat-square&logo=.net) ![](http://img.shields.io/badge/-MS%20SQL-purple?style=flat-square&logo=microsoft-sql-server)
 
 - Other interests:
 
-  ![](http://img.shields.io/badge/-Go-3e4043?style=flat-square&logo=go) ![](http://img.shields.io/badge/-Kotlin-043c90?style=flat-square&logo=kotlin) ![](http://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter) ![](http://img.shields.io/badge/-Android-black?style=flat-square&logo=android) ![](http://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql) ![](http://img.shields.io/badge/-MongoDB-147115?style=flat-square&logo=mongodb) ![](http://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes) ![](http://img.shields.io/badge/-Kafka-black?style=flat-square&logo=apache-kafka) ![](http://img.shields.io/badge/-Azure-141971?style=flat-square&logo=microsoft-azure) ![](http://img.shields.io/badge/-Windows%20Server-blue?style=flat-square&logo=windows)
+  ![](http://img.shields.io/badge/-Kotlin-043c90?style=flat-square&logo=kotlin) ![](http://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter) ![](http://img.shields.io/badge/-Android-black?style=flat-square&logo=android) ![](http://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql) ![](http://img.shields.io/badge/-MongoDB-147115?style=flat-square&logo=mongodb) ![](http://img.shields.io/badge/-Kafka-black?style=flat-square&logo=apache-kafka) ![](http://img.shields.io/badge/-Azure-141971?style=flat-square&logo=microsoft-azure) ![](http://img.shields.io/badge/-Windows%20Server-blue?style=flat-square&logo=windows)
 
 ## Contact
 
