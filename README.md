@@ -7,7 +7,10 @@ DevOps / SRE , bilingual (English - Spanish), and a [Systems Analysis](https://w
 [AWS Certified](https://www.youracclaim.com/badges/63289c22-b1ee-4711-8bb8-39fc5dd77df3) and [freeCodeCamp Certified](https://www.freecodecamp.org/certification/mdorante/javascript-algorithms-and-data-structures) and many more to come!
 
 I'm highly interested in further developing my skills in backend development (Python, Go, JS/Node.js, C#/.NET, Java).
-Most of my infrastructure experience has been with AWS since the beginning of my career, so that's the platform I'm most experienced with. I'm also a container and Kubernetes enthusiast, I like digging deep into these technologies as well.
+
+Most of my infrastructure experience has been with AWS since the beginning of my career, so that's the platform I'm most experienced with. 
+
+I'm also a container and Kubernetes enthusiast, I like digging deep into these technologies as well.
 
 - Some technologies I use regularly:
 
