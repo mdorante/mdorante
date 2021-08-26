@@ -4,7 +4,7 @@
 
 I love football, anime, videogames and coding! I'm a [Systems Analysis](https://www.istea.edu.ar/tecnicatura-superior-en-analisis-de-sistemas) student and I've been working as an SRE / DevOps Engineer for about 2 years.
 
-[AWS Certified](https://www.youracclaim.com/badges/63289c22-b1ee-4711-8bb8-39fc5dd77df3) and [freeCodeCamp Certified](https://www.freecodecamp.org/certification/mdorante/responsive-web-design) and many more to come!
+[AWS Certified](https://www.youracclaim.com/badges/63289c22-b1ee-4711-8bb8-39fc5dd77df3) and [freeCodeCamp Certified](https://www.freecodecamp.org/certification/mdorante/javascript-algorithms-and-data-structures) and many more to come!
 
 I'm really interested in making a move towards the Backend, Full Stack or Mobile Dev space, so that is what my repos are mainly going to be based on.
 
